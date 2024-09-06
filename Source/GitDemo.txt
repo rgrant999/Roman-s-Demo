@@ -1,2 +1,3 @@
 Hello
 Text Content for Translation
+Trados Team is a complete localization platform powered by RWS Language Cloud. Our solution drives the localization cycle end-to-end and powers up several user roles: administrators, project managers, linguists, terminologists, engineers.
