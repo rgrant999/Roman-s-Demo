@@ -1,3 +1,4 @@
 Hello
 Text Content for Translation
 Trados Team is a complete localization platform powered by RWS Language Cloud. Our solution drives the localization cycle end-to-end and powers up several user roles: administrators, project managers, linguists, terminologists, engineers.
+Designed for translation teams of any size, Trados Team integrates with Trados Studio to streamline processes, reduce manual tasks and provide real-time access to translation projects and reporting. Trados Team enables collaboration, allowing teams to be more efficient and deliver high-quality projects faster and more cost-effectively.
